@@ -10,7 +10,7 @@ Learning React, Next.js, and TypeScript while improving my Django projects and b
 
 | Project | Tech | Highlights |
 |---------|------|------------|
-| **[Siwan Matrimony](https://github.com/aditya081105/matrimony-site)** | Django, PostgreSQL, Bootstrap, Cloudinary, Resend, Render | Full-stack matchmaking platform with authentication, email verification, request workflows, profile matching, and moderation features (blocking and reporting). |
+| **[Matrimony-Site](https://github.com/aditya081105/matrimony-site)** | Django, PostgreSQL, Bootstrap, Cloudinary, Resend, Render | Full-stack matchmaking platform with authentication, email verification, request workflows, profile matching, and moderation features (blocking and reporting). |
 | **[Face Recognition Attendance](https://github.com/aditya081105/Face-Recognition-Attendance)** | Python, OpenCV, MediaPipe | Attendance system combining LBPH face recognition with blink-based liveness detection to reduce photo spoofing. |
 | **[Brain Tumor Detection](https://github.com/aditya081105/brain-tumor-detection)** | Python, Flask, Gemini API | Group academic project for MRI image analysis. Contributed to dataset research and result evaluation. |
 
