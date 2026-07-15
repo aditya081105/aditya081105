@@ -14,9 +14,6 @@ Learning React, Next.js, and TypeScript while improving my Django projects and b
 | **[Face Recognition Attendance](https://github.com/aditya081105/Face-Recognition-Attendance)** | Python, OpenCV, MediaPipe | Attendance system combining LBPH face recognition with blink-based liveness detection to reduce photo spoofing. |
 | **[Brain Tumor Detection](https://github.com/aditya081105/brain-tumor-detection)** | Python, Flask, Gemini API | Group academic project for MRI image analysis. Contributed to dataset research and result evaluation. |
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya081105)](https://git.io/streak-stats)
-
 ## Tech Stack
 
 ### Languages
